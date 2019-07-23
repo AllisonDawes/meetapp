@@ -1,0 +1,5 @@
+CRIA UMA FEATURE NO REPOSITORIO:
+git checkout -b feature/cadastro-usuarios
+
+CRIA UMA PULL REQUEST NO REPOSITORIO:
+git push origin feature/cadastro-usuarios
